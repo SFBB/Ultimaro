@@ -73,10 +73,7 @@ public class GameManager : MonoBehaviour {
 
     public void GameOver()
     {
-<<<<<<< HEAD
-=======
         // Debug.Log("sadsad");
->>>>>>> zhoumingxu180-main
         // GameObject[] bg = GameObject.FindGameObjectsWithTag("Background");
         // foreach (GameObject i in bg)
         // {
